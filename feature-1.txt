@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Descricao do projeto para aprender GIt.Alteracao na main
+=======
+Descricao do projeto para aprender GIt.modificando na feature-1
+>>>>>>> featura-1
+editar feature-1
